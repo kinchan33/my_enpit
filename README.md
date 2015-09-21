@@ -17,12 +17,11 @@ https://github.com/ychubachi/enpit
 https://github.com/ychubachi/vagrant_enpit
 
 
-9/21 講義
-----------
+## 9/21
+### 講義
 vagrant, git, git hub, herokuの環境作成
 
-9/21 演習
-----------
+### 演習
 git, githubの演習
 
 
