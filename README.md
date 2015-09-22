@@ -1,7 +1,7 @@
 # My Enpit
 
 since September 21, 2015
-M.Kanamaru
+M.Kanamaru a_san
 New branch
 
 三大要素
